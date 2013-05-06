@@ -1,9 +1,9 @@
 Simple Importer
 ===============
 
-# A simple csv importer written in ruby.
+A simple csv importer written in ruby.
 
-This importer uses the CSV library to read a csv file and import each row for use in your app.
+### This importer uses the CSV library to read a csv file and import each row for use in your app.
 
 #### To begin the importer, you will need to copy the importer.rb file to your local Rails app into the lib/ directory. 
 
